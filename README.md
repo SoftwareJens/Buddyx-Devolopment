@@ -1,1 +1,1 @@
-# VenusHub
+# Buddyx Hub UI
